@@ -1,0 +1,46 @@
+body {
+    background-image: url("https://i.pinimg.com/originals/42/ce/14/42ce149fcd842a7583a8a404fb7ee541.jpg");
+}
+h1 {
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h3 {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Imperio {
+    background-color: crimson;
+}
+#Darth-Vader {
+    color: white;
+    font-size: larger;
+}
+#foto-darth {
+    filter: drop-shadow(10px 12px 14px rgba(255, 0, 0, 0.5));
+}
+.rebeldes {
+    background-color: blue;
+    color: white;
+}
+#Luke {
+    font-style: italic;
+    color: white;
+    font-size: larger;
+}
+.soldados {
+    border: 3px dashed red ;
+    letter-spacing: 3px;
+}
+.apoyo {
+    text-align: center;
+    align-content: center;
+}
+.naves {
+    color: white;
+    text-transform: uppercase;
+  }
+  #foto-luke {
+    filter: drop-shadow(10px 12px 14px green);
+}
+  
